@@ -1252,10 +1252,10 @@
                  "rotation":0,
                  "text":
                     {
-                     "fontfamily":"Arial",
+                     "bold":true,
+                     "fontfamily":"Arial Black",
                      "pixelsize":12,
                      "text":"Presentation Structure",
-                     "underline":true,
                      "wrap":true
                     },
                  "visible":true,
