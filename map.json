@@ -1236,13 +1236,13 @@
                     {
                      "fontfamily":"Arial",
                      "pixelsize":13,
-                     "text":"\n1. Online teaching spaces \n2. Virtual Gathering Platforms\n3. Current research\n4. How to get involved\n",
+                     "text":"\n1. Virtual Gathering Platforms\n2. Current research\n3. How to get involved\n",
                      "wrap":true
                     },
                  "visible":true,
                  "width":192.666666666667,
                  "x":361.833333333333,
-                 "y":502.166666666666
+                 "y":512.166666666666
                 }, 
                 {
                  "class":"",
@@ -1260,8 +1260,8 @@
                     },
                  "visible":true,
                  "width":207.333333333333,
-                 "x":360.833333333333,
-                 "y":497.5
+                 "x":361.833333333333,
+                 "y":505.5
                 }],
          "opacity":1,
          "properties":[
